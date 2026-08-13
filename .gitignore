@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.venv/
+.pytest_cache/
+solarcast-web/node_modules/
+solarcast-web/dist/
+models/rf_model.pkl
