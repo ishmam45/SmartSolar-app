@@ -1,2 +1,1 @@
 # SmartSolar-app
-# SmartSolar-app
